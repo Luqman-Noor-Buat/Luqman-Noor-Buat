@@ -14,7 +14,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
   
-### Frontend  
+### Web Development
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -41,20 +41,24 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://www.facebook.com/achmad.raihan.37" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Akmdrhannn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/akmdrhan" target="_blank">
+<div align="left">
+<a href="https://www.linkedin.com/in/luqman-noor-buat-490422206/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/akmdrhannn_" target="_blank">
+<a href="https://github.com/Luqman-Noor-Buat" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/luqmannoorbuat" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:luqman.utm1@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a> 
+<a href="https://instagram.com/luqmannurbuat?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:akh.raihanaf@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.youtube.com/channel/UCZa4p0qCK1FZTkezGBOghAQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+ 
 </div>  

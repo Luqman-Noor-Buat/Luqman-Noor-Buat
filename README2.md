@@ -2,7 +2,7 @@
 <h5 align="left">I come from Demak, Central Java, Indonesia, currently studying at Trunojoyo University Madura in Informatics Engineering program and have been studying for 6 semesters. I have skills in data analytics and data science. I am passionate about learning the data field because with data I can turn it into very precious information. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's find information based on data, and we'll have the new oil.</h5>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adambadruzz&label=Profile%20views&color=0e75b6&style=flat" alt="adambadruzz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luqman-Noor-Buat&label=Profile%20views&color=0e75b6&style=flat" alt="Luqman-Noor-Buat" /> </p>
 
 
 ## GitHub Stats
@@ -13,7 +13,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-  
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -30,23 +29,30 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="50%">
-
 ### Data Analytics 
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
 </td></tr></table>  
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adambadruzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adambadruzz" height="30" width="40" /></a>
-<a href="https://kaggle.com/adambadruzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adambadruzzaman" height="30" width="40" /></a>
-<a href="https://fb.com/dummyyhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dummyyhere" height="30" width="40" /></a>
-<a href="https://instagram.com/dum_myyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dum_myyz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@adambadruzz/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adambadruzz" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://www.facebook.com/achmad.raihan.37" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Akmdrhannn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/akmdrhan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/akmdrhannn_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:akh.raihanaf@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>  
+</div>  

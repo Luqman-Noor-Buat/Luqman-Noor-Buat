@@ -32,7 +32,8 @@
 <a href="https://id.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" alt="excel" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
 <a href="https://docs.google.com/spreadsheets/create?hl=id" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1377/PNG/512/xofficespreadsheet_92797.png" alt="spreadsheet" height="50" /></a> 
-<a href="https://docs.google.com/spreadsheets/create?hl=id" target="_blank"><img style="margin: 10px" src="https://drive.google.com/file/d/12p46_MO7Kkvy79R9bA_mt-djaeHsYJkp/view?usp=drive_link" alt="power bi" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" alt="tabelau" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 </td></tr></table>  

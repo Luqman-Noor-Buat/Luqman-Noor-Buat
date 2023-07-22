@@ -31,9 +31,11 @@
 <div align="center">  
 <a href="https://id.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" alt="excel" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
+<a href="https://dataprep.ai/" target="_blank"><img style="margin: 10px" src="https://dataprep.ai/images/icon1.png" alt="Python" height="50" /></a> 
 <a href="https://docs.google.com/spreadsheets/create?hl=id" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1377/PNG/512/xofficespreadsheet_92797.png" alt="spreadsheet" height="50" /></a> 
 <a href="https://app.powerbi.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" height="50" /></a> 
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="tabelau" height="50" /></a> 
+<a href="https://lookerstudio.google.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="looker" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 </td></tr></table>  

@@ -1,13 +1,13 @@
 <h3 align="left">Hello There!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
-<h5 align="left">I'm from Indonesia and currently studying at Maulana Malik Ibrahim State Islamic University in Malang. I have skills in both mobile and website development, and I'm currently focusing on diving deeper into the field of database development. I am passionate about exploring the vast possibilities of databases and harnessing their power to create innovative solutions. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's embark on this exciting journey together and leverage the latest technologies to make a significant impact in the digital realm.</h5>
+<h5 align="left">I come from Demak, Central Java, Indonesia, currently studying at Trunojoyo University Madura in Informatics Engineering program and have been studying for 6 semesters. I have skills in data analytics and data science. I am passionate about learning the data field because with data I can turn it into very precious information. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's find information based on data, and we'll have the new oil.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adambadruzz&label=Profile%20views&color=0e75b6&style=flat" alt="adambadruzz" /> </p>
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambadruzz&layout=compact&theme=radical" alt="adambadruzz" style="max-width: 100%;" />   
-<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adambadruzz&theme=radical&" alt="adambadruzz" style="max-width: 100%;"/></p>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Noor-Buat&layout=compact&theme=radical" alt="Luqman-Noor-Buat" style="max-width: 100%;" />   
+<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqman-Noor-Buat&theme=radical&" alt="Luqman-Noor-Buat" style="max-width: 100%;"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +39,3 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/adambadruzz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adambadruzz" /></a></p><br><br>

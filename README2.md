@@ -1,11 +1,11 @@
-<h3 align="left">Hello There!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
+## Hello There!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 <h5 align="left">I come from Demak, Central Java, Indonesia, currently studying at Trunojoyo University Madura in Informatics Engineering program and have been studying for 6 semesters. I have skills in data analytics and data science. I am passionate about learning the data field because with data I can turn it into very precious information. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's find information based on data, and we'll have the new oil.</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adambadruzz&label=Profile%20views&color=0e75b6&style=flat" alt="adambadruzz" /> </p>
 
 
-<h3 align="left">GitHub Stats:</h3>
+## GitHub Stats:
 <p>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Noor-Buat&layout=compact&theme=radical" alt="Luqman-Noor-Buat" style="max-width: 100%;" />   
 <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luqman-Noor-Buat&theme=radical&" alt="Luqman-Noor-Buat" style="max-width: 100%;"/></p>
